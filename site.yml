@@ -1,0 +1,3 @@
+sudo -i
+cd /opt/odoo18/
+sudo mkdir Testing   
